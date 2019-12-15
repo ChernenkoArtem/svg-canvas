@@ -1,0 +1,16 @@
+{
+  "name": "clock-svg",
+  "version": "1.0.0",
+  "description": "svg clock HW",
+  "main": "src/init.js",
+  "scripts": {
+    "test": "test",
+    "dev" : "webpack --mode development"
+  },
+  "author": "Artem Chernenko",
+  "license": "ISC",
+  "devDependencies": {
+    "webpack": "^4.41.2",
+    "webpack-cli": "^3.3.10"
+  }
+}
